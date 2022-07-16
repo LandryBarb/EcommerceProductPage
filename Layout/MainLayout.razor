@@ -1,0 +1,73 @@
+﻿@using EcommerceProductPage.Layout
+@inherits LayoutComponentBase
+@inject HttpClient Http
+
+<header id="primary_header" class="primary_header">
+   
+    <div class="logo">
+        <img src="./assets/images/logo.svg" alt="Brand Logo">
+    </div>
+    <button class="mobile_nav_toggle  @MenuToggleClass"       aria-controls="primary_navigation"    
+        aria-expanded="false"
+       @onclick=ToggleNav>
+        <span class="sr-only">Menu</span>
+    </button>
+    @if(primaryNavItems == null)
+    {
+<p>Loading...</p>
+    }
+    else
+    {
+    <nav id="nav" >
+        <ul id="primary_navigation" class="primary_navigation flex @PrimaryNavClass" 
+        @onclick=ToggleNav>
+            @foreach (var item in primaryNavItems)
+            {
+               <li class="nav_list_item">
+                    <NavLink class="nav_link" 
+                            href="@item.Url" 
+                            ActiveClass="active"
+                            Match="NavLinkMatch.All">@item.Title
+                    </NavLink>
+               </li>
+            }
+        </ul>
+    </nav>
+    <div class="brand">
+        <p class="uppercase brand_text">Immersive experiences that deliver</p>
+    </div>
+    }
+   
+</header>
+
+
+
+
+@code{
+
+    public bool menuToggle = true;
+    public bool primaryNav = true;
+
+    private string? MenuToggleClass => menuToggle ? null : "change";
+    private string? PrimaryNavClass => primaryNav ? null : "change";
+
+    private void ToggleNav()
+    {
+        menuToggle = !menuToggle;
+        primaryNav = !primaryNav;
+    } 
+    private IEnumerable<PrimaryNav>? primaryNavItems;
+
+        protected override async Task OnInitializedAsync()
+        {
+        try
+        {
+            primaryNavItems = await Http.GetFromJsonAsync<IEnumerable<PrimaryNav>>("data/primary-nav.json");
+        }
+        catch (HttpRequestException ex)
+        {
+            
+            System.Console.WriteLine($"There was an issue loading the navigation data: {ex.Message}");
+        }
+        }
+}

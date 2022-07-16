@@ -806,10 +806,7 @@ C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceP
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\blazor.boot.json
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\scopedcss\bundle\EcommerceProductPage.styles.css
-C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\scopedcss\projectbundle\EcommerceProductPage.bundle.scp.css
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\EcommerceProductPage.csproj.CopyComplete
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\EcommerceProductPage.dll
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\refint\EcommerceProductPage.dll

@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-vpgKSsIVVRm3ImOEM6Mg668KUXfSvUY2v2lQxER\/VSw=",
       "netstandard.dll": "sha256-EzmKN+AbNEDjd5nSFsILG121Oz5G6y6srA1Yq1Jo67k=",
       "System.Private.CoreLib.dll": "sha256-cC5\/4QFeEaYp0kJy5xgdDbYrYr8Rflocn4O4\/B\/5l0I=",
-      "EcommerceProductPage.dll": "sha256-rbMFKS74RHU4aZh72h9zU3X6RncaLM9A6i78nWxPt9U="
+      "EcommerceProductPage.dll": "sha256-o0YqSq4zoQJ6a1CVvs3v5tF+fZv9e+tEPQrla8L0ggs="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "EcommerceProductPage.pdb": "sha256-irKsYmlnKblZNz1Cd2sL8eor8h4E7quD\/U7efoDlF6k="
+      "EcommerceProductPage.pdb": "sha256-ezaDdw8hAd4+M\/FoPTyxRA4TdQRAtu\/Cn7tumH9Igt8="
     },
     "runtime": {
       "dotnet.6.0.4.dckq00jdfr.js": "sha256-jOfMbaXeCm62yx0cPv3Z19yvcknDcZyUnruATVPdGPE=",
