@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/EcommerceProductPage.csproj",
+                "${workspaceFolder}/LoopStudiosLandingPage.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/EcommerceProductPage.csproj",
+                "${workspaceFolder}/LoopStudiosLandingPage.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/EcommerceProductPage.csproj"
+                "${workspaceFolder}/LoopStudiosLandingPage.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

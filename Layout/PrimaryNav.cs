@@ -1,4 +1,4 @@
-namespace EcommerceProductPage.Layout
+namespace LoopStudiosLandingPage.Layout
 {
     public class PrimaryNav
     {

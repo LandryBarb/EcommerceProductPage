@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "laGr7gzNR5YSww7LPnw500JHyFyDl8mfrLpqsmRCDvK5AZ5B4f9nqR8n0LrBHO7ZFJp3q3PrB3KhwN6wW7JOPA==",
+  "dgSpecHash": "dsjExXw87zTCFCJKPmiZtm+DKndvD1nTs4lZY4Wo05wXVVsFSr4HBJrVb50TnnjlA+2pSr5W0XiTeZfDuX6d+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Landry Barb II\\Documents\\WebDevelopment\\FrontendMentor\\Final\\EcommerceProductPage\\EcommerceProductPage.csproj",
+  "projectFilePath": "C:\\Users\\Landry Barb II\\Documents\\WebDevelopment\\FrontendMentor\\Final\\LoopStudiosLandingPage\\LoopStudiosLandingPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Landry Barb II\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "C:\\Users\\Landry Barb II\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\microsoft.aspnetcore.components.6.0.5.nupkg.sha512",

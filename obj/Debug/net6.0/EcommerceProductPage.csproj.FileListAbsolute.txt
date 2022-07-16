@@ -812,3 +812,12 @@ C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceP
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\refint\EcommerceProductPage.dll
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\EcommerceProductPage.pdb
 C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\EcommerceProductPage\obj\Debug\net6.0\ref\EcommerceProductPage.dll
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.csproj.AssemblyReference.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.AssemblyInfoInputs.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.AssemblyInfo.cs
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.csproj.CoreCompileInputs.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.dll
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\refint\EcommerceProductPage.dll
+C:\Users\Landry Barb II\Documents\WebDevelopment\FrontendMentor\Final\LoopStudiosLandingPage\obj\Debug\net6.0\EcommerceProductPage.pdb
